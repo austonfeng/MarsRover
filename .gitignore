@@ -3,3 +3,10 @@
 ################################################################################
 
 /MarsRover/obj
+/MarsRover.Tests/bin/Debug/netcoreapp3.0
+/MarsRover.Tests/obj
+/MarsRover/bin/Debug/netcoreapp3.0
+/.vs
+/_NCrunch_MarsRover
+/MarsRover.v3.ncrunchsolution.user
+/MarsRover.v3.ncrunchsolution
